@@ -16,7 +16,7 @@ Hi! I'm a Java Developer and MCA student passionate about building scalable, rel
 Java • Spring Boot • Hibernate • JDBC • Servlets • REST APIs
 
 **Database:**  
-MySQL • Oracle • MongoDB
+PostgreSQL • MySQL • Oracle • MongoDB
 
 **Frontend:**  
 JavaScript • TypeScript • Angular
