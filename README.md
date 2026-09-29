@@ -28,6 +28,11 @@ AWS • Git • GitHub • Maven
 Microservices • System Design • AI Integration
 
 ---
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Mr-Samar-9708&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mr-Samar-9708&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Samar-9708&layout=compact&theme=tokyonight)
+---
 
 ## 🌐 Connect With Me
 
