@@ -31,5 +31,8 @@ Microservices • System Design • AI Integration
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/samar-pratap-singh-348402292/)
-- 📧 [Email Me](mailto:samarpratap9708@gmail.com)
+- 💼 [LinkedIn]()
+- 📧 [Email Me](mailto:samarpratap9708@gmail.com
+
+### 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com/in/samar-pratap-singh-348402292/) • [Email Me](mailto:samarpratap9708@gmail.com)
